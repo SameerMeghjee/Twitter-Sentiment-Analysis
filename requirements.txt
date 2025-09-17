@@ -1,0 +1,4 @@
+panda
+nltk
+scikit-learn
+streamlit
